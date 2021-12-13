@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm ceoifung</h1>
-<h3 align="center">A passionate developer from China</h3>
+# Hi 👋, I'm ceoifung
+### A passionate developer from China
 
 <div style="display: grid;grid-template-columns: 50% 50%;text-align: center;">
 <img src="https://github-readme-stats.vercel.app/api?username=ceoifung&show_icons=true&bg_color=192133&title_color=efb752&icon_color=efb752&text_color=70bed9">
