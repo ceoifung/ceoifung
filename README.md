@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=itgoyo&show_icons=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=ceoifung&show_icons=true)
 
 <!---
 ceoifung/ceoifung is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
